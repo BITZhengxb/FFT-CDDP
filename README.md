@@ -4,21 +4,15 @@ Trajectory optimization for a missile model using Flexible Final Time Constraine
 The code is for my paper "[Constrained Trajectory Optimization with Flexible Final Time for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9582791)".
 If my code inspires you, please cite my article in the following format
 
-``
+<code>
 @article{zheng2021constrained,
-
   title={Constrained Trajectory Optimization with Flexible Final Time for Autonomous Vehicles},
-  
   author={Zheng, Xiaobo and He, Shaoming and Lin, Defu},
-  
   journal={IEEE Transactions on Aerospace and Electronic Systems},
-  
   year={2021},
-  
   publisher={IEEE}
-  
 }
-``
+<\code>
 
 or
 
