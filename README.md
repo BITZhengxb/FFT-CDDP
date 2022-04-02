@@ -16,6 +16,6 @@ If my code inspires you, please cite my article in the following format
 
 or
 
-''''
+````
 Zheng, X., He, S. and Lin, D., 2021. Constrained Trajectory Optimization with Flexible Final Time for Autonomous Vehicles. IEEE Transactions on Aerospace and Electronic Systems.
-''''
+````
