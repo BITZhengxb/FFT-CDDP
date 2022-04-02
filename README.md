@@ -6,11 +6,17 @@ If my code inspires you, please cite my article in the following format
 
 ``
 @article{zheng2021constrained,
+
   title={Constrained Trajectory Optimization with Flexible Final Time for Autonomous Vehicles},
+  
   author={Zheng, Xiaobo and He, Shaoming and Lin, Defu},
+  
   journal={IEEE Transactions on Aerospace and Electronic Systems},
+  
   year={2021},
+  
   publisher={IEEE}
+  
 }
 ``
 
